@@ -1,1 +1,1 @@
-# Sector-Plot-of-Antactica-or-Arctic-region-in-Python
+# Sector-Plot-of-Antarctica-or-Arctic-region-in-Python
