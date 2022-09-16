@@ -1,1 +1,1 @@
-# Sector-Plot-using-COSIMA-in-Python
+# Sector-Plot-of-Antactica-or-Arctic-region-in-Python
